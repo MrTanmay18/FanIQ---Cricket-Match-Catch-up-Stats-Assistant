@@ -1,0 +1,2640 @@
+{
+  "meta": {
+    "data_version": "1.3.0",
+    "created": "2026-10-14",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kuala Lumpur",
+    "dates": [
+      "2026-10-09"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+      "match_number": 10
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 4173,
+    "officials": {
+      "match_referees": [
+        "Neeyamur Rashid"
+      ],
+      "reserve_umpires": [
+        "DN Subedi"
+      ],
+      "umpires": [
+        "Ahmed Shah Durrani",
+        "Morshed Ali Khan"
+      ]
+    },
+    "outcome": {
+      "winner": "Thailand",
+      "by": {
+        "runs": 183
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "P Thongsa"
+    ],
+    "players": {
+      "Thailand": [
+        "AP Yadav",
+        "C Chatphaisan",
+        "P Jirapatananukul",
+        "AV Lazarus",
+        "C Pengkumta",
+        "K Senamontree",
+        "N Senamontree",
+        "P Thongsa",
+        "P Donkaew",
+        "P Suanchuai",
+        "T Buri"
+      ],
+      "Mongolia": [
+        "U Batjargal",
+        "G Ganbold",
+        "B Namsrai",
+        "S Gantulga",
+        "L Erdenebulgan",
+        "T Amarmend",
+        "B Jargaltuya",
+        "M Erdenebat",
+        "T Tumursukh",
+        "Z Shurentsetseg",
+        "B Tamjidsuren"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AP Yadav": "a5501504",
+        "AV Lazarus": "30c917bf",
+        "Ahmed Shah Durrani": "af23265a",
+        "B Jargaltuya": "5dd66492",
+        "B Namsrai": "1d8a3ca6",
+        "B Tamjidsuren": "71439299",
+        "C Chatphaisan": "85c56be8",
+        "C Pengkumta": "b3540b2a",
+        "DN Subedi": "fb0a571f",
+        "G Ganbold": "947346d8",
+        "K Senamontree": "e553e27f",
+        "L Erdenebulgan": "c4f8d754",
+        "M Erdenebat": "e8925c3c",
+        "Morshed Ali Khan": "a7c3cf5f",
+        "N Senamontree": "44e00a4c",
+        "Neeyamur Rashid": "bd81a027",
+        "P Donkaew": "0f61aa94",
+        "P Jirapatananukul": "f52961ea",
+        "P Suanchuai": "e6948355",
+        "P Thongsa": "62318525",
+        "S Gantulga": "8d995b86",
+        "T Amarmend": "e76c8732",
+        "T Buri": "6706fd18",
+        "T Tumursukh": "4758488e",
+        "U Batjargal": "901689d1",
+        "Z Shurentsetseg": "45c6afaf"
+      },
+      "venues": {
+        "Bayuemas Oval, Kuala Lumpur": "8755e10d"
+      }
+    },
+    "season": "2026/27",
+    "team_type": "international",
+    "teams": [
+      "Thailand",
+      "Mongolia"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Thailand"
+    },
+    "venue": "Bayuemas Oval, Kuala Lumpur"
+  },
+  "innings": [
+    {
+      "team": "Thailand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "AP Yadav",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "C Chatphaisan",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "AP Yadav",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "C Chatphaisan",
+              "bowler": "L Erdenebulgan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "C Chatphaisan",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Chatphaisan",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "P Jirapatananukul",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "P Jirapatananukul",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "AP Yadav",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "AP Yadav",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "AP Yadav",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "AP Yadav",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "P Jirapatananukul",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "P Jirapatananukul",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "AP Yadav",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "AP Yadav",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "AP Yadav",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "AP Yadav",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "P Jirapatananukul",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "P Jirapatananukul",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "P Jirapatananukul",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "AP Yadav",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "AP Yadav",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "P Jirapatananukul",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "AP Yadav",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "AP Yadav",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "P Jirapatananukul",
+              "bowler": "S Gantulga",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "AP Yadav",
+              "bowler": "S Gantulga",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "AP Yadav",
+              "bowler": "S Gantulga",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "AP Yadav",
+              "bowler": "S Gantulga",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "AP Yadav",
+              "bowler": "S Gantulga",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "P Jirapatananukul",
+              "bowler": "S Gantulga",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "AP Yadav",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "AP Yadav",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "P Jirapatananukul",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "P Jirapatananukul",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "P Jirapatananukul",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "AP Yadav",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "P Jirapatananukul",
+              "bowler": "S Gantulga",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "AP Yadav",
+              "bowler": "S Gantulga",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "P Jirapatananukul",
+              "bowler": "S Gantulga",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "P Jirapatananukul",
+              "bowler": "S Gantulga",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "AP Yadav",
+              "bowler": "S Gantulga",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "AP Yadav",
+              "bowler": "S Gantulga",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "AP Yadav",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "AP Yadav",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "P Jirapatananukul",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "P Jirapatananukul",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "AP Yadav",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "AP Yadav",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "P Jirapatananukul",
+              "bowler": "S Gantulga",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "8.1",
+              "batter": "P Jirapatananukul",
+              "bowler": "S Gantulga",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "AP Yadav",
+              "bowler": "S Gantulga",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "P Jirapatananukul",
+              "bowler": "S Gantulga",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "AP Yadav",
+              "bowler": "S Gantulga",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "P Jirapatananukul",
+              "bowler": "S Gantulga",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "P Jirapatananukul",
+              "bowler": "S Gantulga",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "AP Yadav",
+              "bowler": "S Gantulga",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "P Jirapatananukul",
+              "bowler": "M Erdenebat",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "AP Yadav",
+              "bowler": "M Erdenebat",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "P Jirapatananukul",
+              "bowler": "M Erdenebat",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "AP Yadav",
+              "bowler": "M Erdenebat",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "P Jirapatananukul",
+              "bowler": "M Erdenebat",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "P Jirapatananukul",
+              "bowler": "M Erdenebat",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "AP Yadav",
+              "bowler": "M Erdenebat",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "P Jirapatananukul",
+              "bowler": "B Jargaltuya",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "P Jirapatananukul",
+              "bowler": "B Jargaltuya",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "AP Yadav",
+              "bowler": "B Jargaltuya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "AP Yadav",
+              "bowler": "B Jargaltuya",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "P Jirapatananukul",
+              "bowler": "B Jargaltuya",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "AP Yadav",
+              "bowler": "B Jargaltuya",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "P Jirapatananukul",
+              "bowler": "B Jargaltuya",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "AP Yadav",
+              "bowler": "T Tumursukh",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "AP Yadav",
+              "bowler": "T Tumursukh",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "P Jirapatananukul",
+              "bowler": "T Tumursukh",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "AP Yadav",
+              "bowler": "T Tumursukh",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "AP Yadav",
+              "bowler": "T Tumursukh",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "P Jirapatananukul",
+              "bowler": "T Tumursukh",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Jirapatananukul",
+                  "fielders": [
+                    {
+                      "name": "T Amarmend"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "AP Yadav",
+              "bowler": "Z Shurentsetseg",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "AP Yadav",
+              "bowler": "Z Shurentsetseg",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "AP Yadav",
+              "bowler": "Z Shurentsetseg",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "AV Lazarus",
+              "bowler": "Z Shurentsetseg",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "AP Yadav",
+              "bowler": "Z Shurentsetseg",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "AV Lazarus",
+              "bowler": "Z Shurentsetseg",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "AP Yadav",
+              "bowler": "T Tumursukh",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "AP Yadav",
+              "bowler": "T Tumursukh",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "AV Lazarus",
+              "bowler": "T Tumursukh",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "AV Lazarus",
+              "bowler": "T Tumursukh",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "AP Yadav",
+              "bowler": "T Tumursukh",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "AV Lazarus",
+              "bowler": "T Tumursukh",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "AP Yadav",
+              "bowler": "T Tumursukh",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "AP Yadav",
+              "bowler": "T Amarmend",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "AV Lazarus",
+              "bowler": "T Amarmend",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "AP Yadav",
+              "bowler": "T Amarmend",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "AP Yadav",
+              "bowler": "T Amarmend",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "AP Yadav",
+              "bowler": "T Amarmend",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "AV Lazarus",
+              "bowler": "T Amarmend",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "AV Lazarus",
+              "bowler": "T Amarmend",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "AV Lazarus",
+              "bowler": "T Amarmend",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "AV Lazarus",
+              "bowler": "T Tumursukh",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "AV Lazarus",
+              "bowler": "T Tumursukh",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "AV Lazarus",
+              "bowler": "T Tumursukh",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "AP Yadav",
+              "bowler": "T Tumursukh",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "AV Lazarus",
+              "bowler": "T Tumursukh",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "AV Lazarus",
+              "bowler": "T Tumursukh",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "AV Lazarus",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "AV Lazarus",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "AP Yadav",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "AP Yadav",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "AV Lazarus",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "AP Yadav",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "AP Yadav",
+              "bowler": "S Gantulga",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "AP Yadav",
+              "bowler": "S Gantulga",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "AP Yadav",
+              "bowler": "S Gantulga",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "AV Lazarus",
+              "bowler": "S Gantulga",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "AV Lazarus",
+              "bowler": "S Gantulga",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "AV Lazarus",
+              "bowler": "S Gantulga",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "AP Yadav",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "AP Yadav",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "AV Lazarus",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "AP Yadav",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "AP Yadav",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "AV Lazarus",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "AP Yadav",
+              "bowler": "T Tumursukh",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "AP Yadav",
+              "bowler": "T Tumursukh",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "AV Lazarus",
+              "bowler": "T Tumursukh",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "AP Yadav",
+              "bowler": "T Tumursukh",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "AP Yadav",
+              "bowler": "T Tumursukh",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "AP Yadav",
+              "bowler": "T Tumursukh",
+              "non_striker": "AV Lazarus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Mongolia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "U Batjargal",
+              "bowler": "T Buri",
+              "non_striker": "G Ganbold",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "U Batjargal",
+              "bowler": "T Buri",
+              "non_striker": "G Ganbold",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "U Batjargal",
+              "bowler": "T Buri",
+              "non_striker": "G Ganbold",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "U Batjargal",
+              "bowler": "T Buri",
+              "non_striker": "G Ganbold",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "U Batjargal",
+              "bowler": "T Buri",
+              "non_striker": "G Ganbold",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "U Batjargal",
+              "bowler": "T Buri",
+              "non_striker": "G Ganbold",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "G Ganbold",
+              "bowler": "K Senamontree",
+              "non_striker": "U Batjargal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "G Ganbold",
+              "bowler": "K Senamontree",
+              "non_striker": "U Batjargal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "G Ganbold",
+              "bowler": "K Senamontree",
+              "non_striker": "U Batjargal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "G Ganbold",
+              "bowler": "K Senamontree",
+              "non_striker": "U Batjargal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "G Ganbold",
+              "bowler": "K Senamontree",
+              "non_striker": "U Batjargal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "G Ganbold",
+              "bowler": "K Senamontree",
+              "non_striker": "U Batjargal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "G Ganbold",
+              "bowler": "T Buri",
+              "non_striker": "U Batjargal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "G Ganbold",
+              "bowler": "T Buri",
+              "non_striker": "U Batjargal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "G Ganbold",
+              "bowler": "T Buri",
+              "non_striker": "U Batjargal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "G Ganbold",
+              "bowler": "T Buri",
+              "non_striker": "U Batjargal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "G Ganbold",
+              "bowler": "T Buri",
+              "non_striker": "U Batjargal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Ganbold",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "B Namsrai",
+              "bowler": "T Buri",
+              "non_striker": "U Batjargal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "U Batjargal",
+              "bowler": "K Senamontree",
+              "non_striker": "B Namsrai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "U Batjargal",
+              "bowler": "K Senamontree",
+              "non_striker": "B Namsrai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "U Batjargal",
+              "bowler": "K Senamontree",
+              "non_striker": "B Namsrai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "U Batjargal",
+              "bowler": "K Senamontree",
+              "non_striker": "B Namsrai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "U Batjargal",
+              "bowler": "K Senamontree",
+              "non_striker": "B Namsrai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "U Batjargal",
+              "bowler": "K Senamontree",
+              "non_striker": "B Namsrai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "U Batjargal",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "B Namsrai",
+              "bowler": "T Buri",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "B Namsrai",
+              "bowler": "T Buri",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "B Namsrai",
+              "bowler": "T Buri",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "B Namsrai",
+              "bowler": "T Buri",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "B Namsrai",
+              "bowler": "T Buri",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "B Namsrai",
+              "bowler": "T Buri",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "B Namsrai",
+              "bowler": "T Buri",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "S Gantulga",
+              "bowler": "K Senamontree",
+              "non_striker": "B Namsrai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Gantulga",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "L Erdenebulgan",
+              "bowler": "K Senamontree",
+              "non_striker": "B Namsrai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "L Erdenebulgan",
+              "bowler": "K Senamontree",
+              "non_striker": "B Namsrai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "L Erdenebulgan",
+              "bowler": "K Senamontree",
+              "non_striker": "B Namsrai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Erdenebulgan",
+                  "fielders": [
+                    {
+                      "name": "N Senamontree"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "T Amarmend",
+              "bowler": "K Senamontree",
+              "non_striker": "B Namsrai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "T Amarmend",
+              "bowler": "K Senamontree",
+              "non_striker": "B Namsrai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "B Namsrai",
+              "bowler": "C Pengkumta",
+              "non_striker": "T Amarmend",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "B Namsrai",
+              "bowler": "C Pengkumta",
+              "non_striker": "T Amarmend",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "B Namsrai",
+              "bowler": "C Pengkumta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Amarmend",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "B Namsrai",
+              "bowler": "C Pengkumta",
+              "non_striker": "T Amarmend",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "B Namsrai",
+              "bowler": "C Pengkumta",
+              "non_striker": "T Amarmend",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "T Amarmend",
+              "bowler": "C Pengkumta",
+              "non_striker": "B Namsrai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "T Amarmend",
+              "bowler": "C Pengkumta",
+              "non_striker": "B Namsrai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "B Namsrai",
+              "bowler": "K Senamontree",
+              "non_striker": "T Amarmend",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "B Namsrai",
+              "bowler": "K Senamontree",
+              "non_striker": "T Amarmend",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "B Namsrai",
+              "bowler": "K Senamontree",
+              "non_striker": "T Amarmend",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "B Namsrai",
+              "bowler": "K Senamontree",
+              "non_striker": "T Amarmend",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "B Namsrai",
+              "bowler": "K Senamontree",
+              "non_striker": "T Amarmend",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Namsrai",
+                  "fielders": [
+                    {
+                      "name": "P Donkaew"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "B Jargaltuya",
+              "bowler": "K Senamontree",
+              "non_striker": "T Amarmend",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "T Amarmend",
+              "bowler": "P Thongsa",
+              "non_striker": "B Jargaltuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "T Amarmend",
+              "bowler": "P Thongsa",
+              "non_striker": "B Jargaltuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "T Amarmend",
+              "bowler": "P Thongsa",
+              "non_striker": "B Jargaltuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Amarmend",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "M Erdenebat",
+              "bowler": "P Thongsa",
+              "non_striker": "B Jargaltuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Erdenebat",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "T Tumursukh",
+              "bowler": "P Thongsa",
+              "non_striker": "B Jargaltuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Tumursukh",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Z Shurentsetseg",
+              "bowler": "P Thongsa",
+              "non_striker": "B Jargaltuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "B Jargaltuya",
+              "bowler": "P Donkaew",
+              "non_striker": "Z Shurentsetseg",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "B Jargaltuya",
+              "bowler": "P Donkaew",
+              "non_striker": "Z Shurentsetseg",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Z Shurentsetseg",
+              "bowler": "P Donkaew",
+              "non_striker": "B Jargaltuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Z Shurentsetseg",
+              "bowler": "P Donkaew",
+              "non_striker": "B Jargaltuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Z Shurentsetseg",
+              "bowler": "P Donkaew",
+              "non_striker": "B Jargaltuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Z Shurentsetseg",
+              "bowler": "P Donkaew",
+              "non_striker": "B Jargaltuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "B Jargaltuya",
+              "bowler": "P Thongsa",
+              "non_striker": "Z Shurentsetseg",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "B Jargaltuya",
+              "bowler": "P Thongsa",
+              "non_striker": "Z Shurentsetseg",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Z Shurentsetseg",
+              "bowler": "P Thongsa",
+              "non_striker": "B Jargaltuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Z Shurentsetseg",
+              "bowler": "P Thongsa",
+              "non_striker": "B Jargaltuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Z Shurentsetseg",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "B Tamjidsuren",
+              "bowler": "P Thongsa",
+              "non_striker": "B Jargaltuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "B Tamjidsuren",
+              "bowler": "P Thongsa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Jargaltuya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "B Tamjidsuren",
+              "bowler": "P Thongsa",
+              "non_striker": "B Jargaltuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "B Jargaltuya",
+              "bowler": "P Donkaew",
+              "non_striker": "B Tamjidsuren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "B Jargaltuya",
+              "bowler": "P Donkaew",
+              "non_striker": "B Tamjidsuren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "B Jargaltuya",
+              "bowler": "P Donkaew",
+              "non_striker": "B Tamjidsuren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Jargaltuya",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 197
+      }
+    }
+  ]
+}

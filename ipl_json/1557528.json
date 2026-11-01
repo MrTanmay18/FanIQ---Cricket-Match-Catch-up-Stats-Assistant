@@ -1,0 +1,980 @@
+{
+  "meta": {
+    "data_version": "1.3.0",
+    "created": "2026-10-25",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Abuja",
+    "dates": [
+      "2026-10-23"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C",
+      "match_number": 9
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 4213,
+    "officials": {
+      "match_referees": [
+        "SA Fritz"
+      ],
+      "reserve_umpires": [
+        "Charles Kariuki"
+      ],
+      "umpires": [
+        "I Chabi",
+        "Kehinde Olanbiwonnu"
+      ]
+    },
+    "outcome": {
+      "winner": "Uganda",
+      "by": {
+        "wickets": 10
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Riazat Ali Shah"
+    ],
+    "players": {
+      "Gambia": [
+        "ML Bojang",
+        "Muhammed Manga",
+        "F Campbell",
+        "A Conteh",
+        "Andre Jarju",
+        "Abubacarr Kuyateh",
+        "David Demba",
+        "Mustapha Suwareh",
+        "M Jobarteh",
+        "Ousman Bah",
+        "Malang Touray"
+      ],
+      "Uganda": [
+        "R Obuya",
+        "Anas Baig",
+        "SL Verma",
+        "C Musemez",
+        "AR Ramjani",
+        "K Waiswa",
+        "Olipa Gerald",
+        "P Oloka",
+        "Riazat Ali Shah",
+        "J Baguma",
+        "E Kasaija"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Conteh": "97b9cb64",
+        "AR Ramjani": "30d8136b",
+        "Abubacarr Kuyateh": "0ec45a9a",
+        "Anas Baig": "c593fbb3",
+        "Andre Jarju": "53dd7d8e",
+        "C Musemez": "7b2b4e29",
+        "Charles Kariuki": "8de34db0",
+        "David Demba": "2c8d5886",
+        "E Kasaija": "67e21230",
+        "F Campbell": "02c3024c",
+        "I Chabi": "5e39110e",
+        "J Baguma": "8b46fc4f",
+        "K Waiswa": "a3a275ec",
+        "Kehinde Olanbiwonnu": "e7e9f2cd",
+        "M Jobarteh": "4a2ce060",
+        "ML Bojang": "c2409632",
+        "Malang Touray": "807b75bb",
+        "Muhammed Manga": "6084f6ee",
+        "Mustapha Suwareh": "44116edc",
+        "Olipa Gerald": "ccd6b379",
+        "Ousman Bah": "95c214dd",
+        "P Oloka": "dcc5245d",
+        "R Obuya": "6bc04a3e",
+        "Riazat Ali Shah": "269cc4ff",
+        "SA Fritz": "d15e60c8",
+        "SL Verma": "26b6a4e9"
+      },
+      "venues": {
+        "Nigeria Cricket Federation Oval 2, Abuja": "99d3ce22"
+      }
+    },
+    "season": "2026/27",
+    "team_type": "international",
+    "teams": [
+      "Gambia",
+      "Uganda"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Gambia"
+    },
+    "venue": "Nigeria Cricket Federation Oval 2, Abuja"
+  },
+  "innings": [
+    {
+      "team": "Gambia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "ML Bojang",
+              "bowler": "Riazat Ali Shah",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "ML Bojang",
+              "bowler": "Riazat Ali Shah",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ML Bojang",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "F Campbell",
+              "bowler": "Riazat Ali Shah",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F Campbell",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "A Conteh",
+              "bowler": "Riazat Ali Shah",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "A Conteh",
+              "bowler": "Riazat Ali Shah",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "A Conteh",
+              "bowler": "Riazat Ali Shah",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Muhammed Manga",
+              "bowler": "E Kasaija",
+              "non_striker": "A Conteh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Muhammed Manga",
+              "bowler": "E Kasaija",
+              "non_striker": "A Conteh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Muhammed Manga",
+              "bowler": "E Kasaija",
+              "non_striker": "A Conteh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Muhammed Manga",
+              "bowler": "E Kasaija",
+              "non_striker": "A Conteh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Muhammed Manga",
+              "bowler": "E Kasaija",
+              "non_striker": "A Conteh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Muhammed Manga",
+              "bowler": "E Kasaija",
+              "non_striker": "A Conteh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Muhammed Manga",
+              "bowler": "Riazat Ali Shah",
+              "non_striker": "A Conteh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Muhammed Manga",
+              "bowler": "Riazat Ali Shah",
+              "non_striker": "A Conteh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "A Conteh",
+              "bowler": "Riazat Ali Shah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "A Conteh",
+              "bowler": "Riazat Ali Shah",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "A Conteh",
+              "bowler": "Riazat Ali Shah",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Muhammed Manga",
+              "bowler": "Riazat Ali Shah",
+              "non_striker": "A Conteh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Muhammed Manga",
+              "bowler": "Riazat Ali Shah",
+              "non_striker": "A Conteh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "A Conteh",
+              "bowler": "E Kasaija",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "A Conteh",
+              "bowler": "E Kasaija",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Conteh",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Andre Jarju",
+              "bowler": "E Kasaija",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Andre Jarju",
+              "bowler": "E Kasaija",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Andre Jarju",
+              "bowler": "E Kasaija",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Andre Jarju",
+              "bowler": "E Kasaija",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Muhammed Manga",
+              "bowler": "Riazat Ali Shah",
+              "non_striker": "Andre Jarju",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Muhammed Manga",
+              "bowler": "Riazat Ali Shah",
+              "non_striker": "Andre Jarju",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Andre Jarju",
+              "bowler": "Riazat Ali Shah",
+              "non_striker": "Muhammed Manga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Muhammed Manga",
+              "bowler": "Riazat Ali Shah",
+              "non_striker": "Andre Jarju",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammed Manga",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Abubacarr Kuyateh",
+              "bowler": "Riazat Ali Shah",
+              "non_striker": "Andre Jarju",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Andre Jarju",
+              "bowler": "Riazat Ali Shah",
+              "non_striker": "Abubacarr Kuyateh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Andre Jarju",
+              "bowler": "E Kasaija",
+              "non_striker": "Abubacarr Kuyateh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Andre Jarju",
+              "bowler": "E Kasaija",
+              "non_striker": "Abubacarr Kuyateh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Abubacarr Kuyateh",
+              "bowler": "E Kasaija",
+              "non_striker": "Andre Jarju",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abubacarr Kuyateh",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "David Demba",
+              "bowler": "E Kasaija",
+              "non_striker": "Andre Jarju",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Andre Jarju",
+              "bowler": "E Kasaija",
+              "non_striker": "David Demba",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "David Demba",
+              "bowler": "E Kasaija",
+              "non_striker": "Andre Jarju",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "David Demba",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Andre Jarju",
+              "bowler": "AR Ramjani",
+              "non_striker": "Mustapha Suwareh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Mustapha Suwareh",
+                  "fielders": [
+                    {
+                      "name": "AR Ramjani"
+                    },
+                    {
+                      "name": "Olipa Gerald"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Andre Jarju",
+              "bowler": "AR Ramjani",
+              "non_striker": "M Jobarteh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "M Jobarteh",
+              "bowler": "AR Ramjani",
+              "non_striker": "Andre Jarju",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Jobarteh",
+                  "fielders": [
+                    {
+                      "name": "C Musemez"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Ousman Bah",
+              "bowler": "AR Ramjani",
+              "non_striker": "Andre Jarju",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Ousman Bah",
+              "bowler": "AR Ramjani",
+              "non_striker": "Andre Jarju",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ousman Bah",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Malang Touray",
+              "bowler": "AR Ramjani",
+              "non_striker": "Andre Jarju",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Andre Jarju",
+              "bowler": "E Kasaija",
+              "non_striker": "Malang Touray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Andre Jarju",
+              "bowler": "E Kasaija",
+              "non_striker": "Malang Touray",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Andre Jarju",
+              "bowler": "E Kasaija",
+              "non_striker": "Malang Touray",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Malang Touray",
+              "bowler": "E Kasaija",
+              "non_striker": "Andre Jarju",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Malang Touray",
+              "bowler": "E Kasaija",
+              "non_striker": "Andre Jarju",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Andre Jarju",
+              "bowler": "E Kasaija",
+              "non_striker": "Malang Touray",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Malang Touray",
+              "bowler": "J Baguma",
+              "non_striker": "Andre Jarju",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Malang Touray",
+              "bowler": "J Baguma",
+              "non_striker": "Andre Jarju",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Malang Touray",
+                  "fielders": [
+                    {
+                      "name": "C Musemez"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Uganda",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "R Obuya",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "Anas Baig",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "R Obuya",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "Anas Baig",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "R Obuya",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "Anas Baig",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "R Obuya",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "Anas Baig",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Anas Baig",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "R Obuya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Anas Baig",
+              "bowler": "Abubacarr Kuyateh",
+              "non_striker": "R Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "R Obuya",
+              "bowler": "M Jobarteh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Anas Baig",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.1",
+              "batter": "R Obuya",
+              "bowler": "M Jobarteh",
+              "non_striker": "Anas Baig",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "R Obuya",
+              "bowler": "M Jobarteh",
+              "non_striker": "Anas Baig",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Anas Baig",
+              "bowler": "M Jobarteh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Anas Baig",
+              "bowler": "M Jobarteh",
+              "non_striker": "R Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Anas Baig",
+              "bowler": "M Jobarteh",
+              "non_striker": "R Obuya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 28
+      }
+    }
+  ]
+}

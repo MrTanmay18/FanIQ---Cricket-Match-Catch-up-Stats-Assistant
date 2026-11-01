@@ -1,0 +1,2186 @@
+{
+  "meta": {
+    "data_version": "1.3.0",
+    "created": "2026-10-14",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangi",
+    "dates": [
+      "2026-10-12"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+      "match_number": 17
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 4193,
+    "officials": {
+      "match_referees": [
+        "V Narayan Kutty"
+      ],
+      "reserve_umpires": [
+        "DN Subedi"
+      ],
+      "umpires": [
+        "Ahmed Shah Pakteen",
+        "N Sivan"
+      ]
+    },
+    "outcome": {
+      "winner": "Thailand",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "P Thongsa"
+    ],
+    "players": {
+      "Myanmar": [
+        "Pyae Phyo Wai",
+        "Paing Danu",
+        "H Lin Oo",
+        "Khin Aye",
+        "KK Lin Thu",
+        "Aung Ko Ko",
+        "H Lin Aung",
+        "Kyaw Zin Lin",
+        "Y Naing Tun",
+        "Sai Hla Htwe",
+        "Kaung Htet Kyaw"
+      ],
+      "Thailand": [
+        "AP Yadav",
+        "C Chatphaisan",
+        "P Jirapatananukul",
+        "P Suanchuai",
+        "C Pengkumta",
+        "AV Lazarus",
+        "P Thongsa",
+        "K Senamontree",
+        "P Donkaew",
+        "N Senamontree",
+        "T Buri"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AP Yadav": "a5501504",
+        "AV Lazarus": "30c917bf",
+        "Ahmed Shah Pakteen": "43602937",
+        "Aung Ko Ko": "648d060e",
+        "C Chatphaisan": "85c56be8",
+        "C Pengkumta": "b3540b2a",
+        "DN Subedi": "fb0a571f",
+        "H Lin Aung": "c343a8c6",
+        "H Lin Oo": "2e005bfd",
+        "K Senamontree": "e553e27f",
+        "KK Lin Thu": "6cf75582",
+        "Kaung Htet Kyaw": "e1bd3e2e",
+        "Khin Aye": "ad2efd29",
+        "Kyaw Zin Lin": "a7e8c6c2",
+        "N Senamontree": "44e00a4c",
+        "N Sivan": "8f4a0102",
+        "P Donkaew": "0f61aa94",
+        "P Jirapatananukul": "f52961ea",
+        "P Suanchuai": "e6948355",
+        "P Thongsa": "62318525",
+        "Paing Danu": "1eb5affb",
+        "Pyae Phyo Wai": "09e86895",
+        "Sai Hla Htwe": "740d29d5",
+        "T Buri": "6706fd18",
+        "V Narayan Kutty": "4bacee3d",
+        "Y Naing Tun": "97b109d2"
+      },
+      "venues": {
+        "YSD-UKM Cricket Oval, Bangi": "e74170c2"
+      }
+    },
+    "season": "2026/27",
+    "team_type": "international",
+    "teams": [
+      "Myanmar",
+      "Thailand"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Thailand"
+    },
+    "venue": "YSD-UKM Cricket Oval, Bangi"
+  },
+  "innings": [
+    {
+      "team": "Myanmar",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Pyae Phyo Wai",
+              "bowler": "C Pengkumta",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Pyae Phyo Wai",
+              "bowler": "C Pengkumta",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Paing Danu",
+              "bowler": "C Pengkumta",
+              "non_striker": "Pyae Phyo Wai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Pyae Phyo Wai",
+              "bowler": "C Pengkumta",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Pyae Phyo Wai",
+                  "fielders": [
+                    {
+                      "name": "AV Lazarus"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "H Lin Oo",
+              "bowler": "C Pengkumta",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "H Lin Oo",
+              "bowler": "C Pengkumta",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "H Lin Oo",
+              "bowler": "T Buri",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Lin Oo",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Khin Aye",
+              "bowler": "T Buri",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Khin Aye",
+                  "fielders": [
+                    {
+                      "name": "P Suanchuai"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "KK Lin Thu",
+              "bowler": "T Buri",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "KK Lin Thu",
+              "bowler": "T Buri",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "KK Lin Thu",
+              "bowler": "T Buri",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Paing Danu",
+              "bowler": "T Buri",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "KK Lin Thu",
+              "bowler": "C Pengkumta",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "KK Lin Thu",
+              "bowler": "C Pengkumta",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "KK Lin Thu",
+              "bowler": "C Pengkumta",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Paing Danu",
+              "bowler": "C Pengkumta",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Paing Danu",
+              "bowler": "C Pengkumta",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Paing Danu",
+              "bowler": "C Pengkumta",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "KK Lin Thu",
+              "bowler": "T Buri",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "KK Lin Thu",
+              "bowler": "T Buri",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "KK Lin Thu",
+              "bowler": "T Buri",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "KK Lin Thu",
+              "bowler": "T Buri",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Paing Danu",
+              "bowler": "T Buri",
+              "non_striker": "KK Lin Thu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "KK Lin Thu",
+              "bowler": "T Buri",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "KK Lin Thu",
+              "bowler": "T Buri",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "KK Lin Thu",
+              "bowler": "N Senamontree",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "KK Lin Thu",
+              "bowler": "N Senamontree",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "KK Lin Thu",
+              "bowler": "N Senamontree",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "KK Lin Thu",
+              "bowler": "N Senamontree",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "KK Lin Thu",
+              "bowler": "N Senamontree",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KK Lin Thu",
+                  "fielders": [
+                    {
+                      "name": "P Suanchuai"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Aung Ko Ko",
+              "bowler": "N Senamontree",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Aung Ko Ko",
+              "bowler": "N Senamontree",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Paing Danu",
+              "bowler": "K Senamontree",
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Paing Danu",
+              "bowler": "K Senamontree",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Paing Danu",
+              "bowler": "K Senamontree",
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Paing Danu",
+              "bowler": "K Senamontree",
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Aung Ko Ko",
+              "bowler": "K Senamontree",
+              "non_striker": "Paing Danu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Paing Danu",
+              "bowler": "K Senamontree",
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Paing Danu",
+              "bowler": "K Senamontree",
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Paing Danu",
+              "bowler": "N Senamontree",
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Paing Danu",
+              "bowler": "N Senamontree",
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Paing Danu",
+              "bowler": "N Senamontree",
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Paing Danu",
+              "bowler": "N Senamontree",
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Paing Danu",
+              "bowler": "N Senamontree",
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Paing Danu",
+              "bowler": "N Senamontree",
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Paing Danu",
+              "bowler": "P Thongsa",
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Paing Danu",
+              "bowler": "P Thongsa",
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Paing Danu",
+              "bowler": "P Thongsa",
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Paing Danu",
+              "bowler": "P Thongsa",
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Paing Danu",
+              "bowler": "P Thongsa",
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Paing Danu",
+              "bowler": "P Thongsa",
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Paing Danu",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Aung Ko Ko",
+              "bowler": "N Senamontree",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Aung Ko Ko",
+              "bowler": "N Senamontree",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "H Lin Aung",
+              "bowler": "N Senamontree",
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "H Lin Aung",
+              "bowler": "N Senamontree",
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "H Lin Aung",
+              "bowler": "N Senamontree",
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "H Lin Aung",
+              "bowler": "N Senamontree",
+              "non_striker": "Aung Ko Ko",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Aung Ko Ko",
+              "bowler": "P Thongsa",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Aung Ko Ko",
+              "bowler": "P Thongsa",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aung Ko Ko",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Kyaw Zin Lin",
+              "bowler": "P Thongsa",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Kyaw Zin Lin",
+              "bowler": "P Thongsa",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Kyaw Zin Lin",
+              "bowler": "P Thongsa",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kyaw Zin Lin",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Y Naing Tun",
+              "bowler": "P Thongsa",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "H Lin Aung",
+              "bowler": "N Senamontree",
+              "non_striker": "Y Naing Tun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "H Lin Aung",
+              "bowler": "N Senamontree",
+              "non_striker": "Y Naing Tun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "H Lin Aung",
+              "bowler": "N Senamontree",
+              "non_striker": "Y Naing Tun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "H Lin Aung",
+              "bowler": "N Senamontree",
+              "non_striker": "Y Naing Tun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Y Naing Tun",
+              "bowler": "N Senamontree",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Y Naing Tun",
+              "bowler": "N Senamontree",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "H Lin Aung",
+              "bowler": "P Thongsa",
+              "non_striker": "Y Naing Tun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "H Lin Aung",
+              "bowler": "P Thongsa",
+              "non_striker": "Y Naing Tun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "H Lin Aung",
+              "bowler": "P Thongsa",
+              "non_striker": "Y Naing Tun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "H Lin Aung",
+              "bowler": "P Thongsa",
+              "non_striker": "Y Naing Tun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Y Naing Tun",
+              "bowler": "P Thongsa",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Y Naing Tun",
+              "bowler": "P Thongsa",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Y Naing Tun",
+                  "fielders": [
+                    {
+                      "name": "AP Yadav"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "H Lin Aung",
+              "bowler": "P Donkaew",
+              "non_striker": "Sai Hla Htwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "H Lin Aung",
+              "bowler": "P Donkaew",
+              "non_striker": "Sai Hla Htwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "H Lin Aung",
+              "bowler": "P Donkaew",
+              "non_striker": "Sai Hla Htwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "H Lin Aung",
+              "bowler": "P Donkaew",
+              "non_striker": "Sai Hla Htwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Sai Hla Htwe",
+              "bowler": "P Donkaew",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Sai Hla Htwe",
+              "bowler": "P Donkaew",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "H Lin Aung",
+              "bowler": "P Thongsa",
+              "non_striker": "Sai Hla Htwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "H Lin Aung",
+              "bowler": "P Thongsa",
+              "non_striker": "Sai Hla Htwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "H Lin Aung",
+              "bowler": "P Thongsa",
+              "non_striker": "Sai Hla Htwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "H Lin Aung",
+              "bowler": "P Thongsa",
+              "non_striker": "Sai Hla Htwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "H Lin Aung",
+              "bowler": "P Thongsa",
+              "non_striker": "Sai Hla Htwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "H Lin Aung",
+              "bowler": "P Thongsa",
+              "non_striker": "Sai Hla Htwe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Sai Hla Htwe",
+              "bowler": "P Donkaew",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Sai Hla Htwe",
+              "bowler": "P Donkaew",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "H Lin Aung",
+              "bowler": "P Donkaew",
+              "non_striker": "Sai Hla Htwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "H Lin Aung",
+              "bowler": "P Donkaew",
+              "non_striker": "Sai Hla Htwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "H Lin Aung",
+              "bowler": "P Donkaew",
+              "non_striker": "Sai Hla Htwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "H Lin Aung",
+              "bowler": "P Donkaew",
+              "non_striker": "Sai Hla Htwe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Sai Hla Htwe",
+              "bowler": "AV Lazarus",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "H Lin Aung",
+              "bowler": "AV Lazarus",
+              "non_striker": "Sai Hla Htwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "H Lin Aung",
+              "bowler": "AV Lazarus",
+              "non_striker": "Sai Hla Htwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Sai Hla Htwe",
+              "bowler": "AV Lazarus",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sai Hla Htwe",
+                  "fielders": [
+                    {
+                      "name": "P Jirapatananukul"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Kaung Htet Kyaw",
+              "bowler": "AV Lazarus",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Kaung Htet Kyaw",
+              "bowler": "AV Lazarus",
+              "non_striker": "H Lin Aung",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kaung Htet Kyaw",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Thailand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "AP Yadav",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "AP Yadav",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "C Chatphaisan",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "C Chatphaisan",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "AP Yadav",
+              "bowler": "Pyae Phyo Wai",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "AP Yadav",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "AP Yadav",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "AP Yadav",
+              "bowler": "KK Lin Thu",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "AP Yadav",
+              "bowler": "KK Lin Thu",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "AP Yadav",
+              "bowler": "KK Lin Thu",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "AP Yadav",
+              "bowler": "KK Lin Thu",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "C Chatphaisan",
+              "bowler": "KK Lin Thu",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "AP Yadav",
+              "bowler": "KK Lin Thu",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "C Chatphaisan",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "C Chatphaisan",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "AP Yadav",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "C Chatphaisan",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "AP Yadav",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "AP Yadav",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "AP Yadav",
+              "bowler": "KK Lin Thu",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "AP Yadav",
+              "bowler": "KK Lin Thu",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "C Chatphaisan",
+              "bowler": "KK Lin Thu",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "C Chatphaisan",
+              "bowler": "KK Lin Thu",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "AP Yadav",
+              "bowler": "KK Lin Thu",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "C Chatphaisan",
+              "bowler": "KK Lin Thu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "C Chatphaisan",
+              "bowler": "KK Lin Thu",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "C Chatphaisan",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "C Chatphaisan",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "C Chatphaisan",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "C Chatphaisan",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "C Chatphaisan",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "C Chatphaisan",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "AP Yadav",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "C Chatphaisan",
+              "bowler": "Kaung Htet Kyaw",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "C Chatphaisan",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "AP Yadav",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "AP Yadav",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "AP Yadav",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "AP Yadav",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "AP Yadav",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "AP Yadav",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "C Chatphaisan",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "AP Yadav",
+              "bowler": "Pyae Phyo Wai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "AP Yadav",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "C Chatphaisan",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "C Chatphaisan",
+              "bowler": "Pyae Phyo Wai",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "AP Yadav",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "AP Yadav",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "C Chatphaisan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "C Chatphaisan",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Chatphaisan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "P Jirapatananukul",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "AP Yadav",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "AP Yadav",
+              "bowler": "Kaung Htet Kyaw",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "AP Yadav",
+              "bowler": "Aung Ko Ko",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "P Jirapatananukul",
+              "bowler": "Aung Ko Ko",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "P Jirapatananukul",
+              "bowler": "Aung Ko Ko",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "P Jirapatananukul",
+              "bowler": "Aung Ko Ko",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "P Jirapatananukul",
+              "bowler": "Aung Ko Ko",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "AP Yadav",
+              "bowler": "Aung Ko Ko",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "AP Yadav",
+              "bowler": "Aung Ko Ko",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "AP Yadav",
+              "bowler": "Paing Danu",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "P Jirapatananukul",
+              "bowler": "Paing Danu",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "AP Yadav",
+              "bowler": "Paing Danu",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "P Jirapatananukul",
+              "bowler": "Paing Danu",
+              "non_striker": "AP Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "AP Yadav",
+              "bowler": "Paing Danu",
+              "non_striker": "P Jirapatananukul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 53
+      }
+    }
+  ]
+}

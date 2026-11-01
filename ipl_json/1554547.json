@@ -1,0 +1,1276 @@
+{
+  "meta": {
+    "data_version": "1.3.0",
+    "created": "2026-10-14",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kuala Lumpur",
+    "dates": [
+      "2026-10-11"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Asia Qualifier A",
+      "match_number": 15
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 4186,
+    "officials": {
+      "match_referees": [
+        "V Narayan Kutty"
+      ],
+      "reserve_umpires": [
+        "Aasif Iqbal"
+      ],
+      "umpires": [
+        "Tabarak Dar",
+        "V Kalidas"
+      ]
+    },
+    "outcome": {
+      "winner": "Bahrain",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Ali Dawood"
+    ],
+    "players": {
+      "Mongolia": [
+        "G Ganbold",
+        "L Erdenebulgan",
+        "U Batjargal",
+        "S Gantulga",
+        "B Namsrai",
+        "B Munkhdelger",
+        "T Amarmend",
+        "B Batbayr",
+        "O Lutbayar",
+        "T Tumursukh",
+        "B Tamjidsuren"
+      ],
+      "Bahrain": [
+        "Asif Ali",
+        "Shujaat Rasool",
+        "Imran Anwar",
+        "Fiaz Ahmed",
+        "Junaid Aziz",
+        "Muhammad Wasim",
+        "Ahmer Bin Nisar",
+        "Abdul Majid Abbasi",
+        "Ali Dawood",
+        "Asif Shaikh",
+        "Rizwan Butt"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Aasif Iqbal": "42c41e1a",
+        "Abdul Majid Abbasi": "0cfb42b5",
+        "Ahmer Bin Nisar": "afbc53ba",
+        "Ali Dawood": "596982e6",
+        "Asif Ali": "0a4736eb",
+        "Asif Shaikh": "231daa19",
+        "B Batbayr": "6b41afad",
+        "B Munkhdelger": "66efb35e",
+        "B Namsrai": "1d8a3ca6",
+        "B Tamjidsuren": "71439299",
+        "Fiaz Ahmed": "df1f2f29",
+        "G Ganbold": "947346d8",
+        "Imran Anwar": "a9a18e3e",
+        "Junaid Aziz": "c39ee9e0",
+        "L Erdenebulgan": "c4f8d754",
+        "Muhammad Wasim": "426a3307",
+        "O Lutbayar": "ccd88623",
+        "P Kurup": "50ceaef6",
+        "Rizwan Butt": "e741ed8f",
+        "S Gantulga": "8d995b86",
+        "Shujaat Rasool": "2dd90a40",
+        "T Amarmend": "e76c8732",
+        "T Tumursukh": "4758488e",
+        "Tabarak Dar": "2259c12d",
+        "U Batjargal": "901689d1",
+        "V Kalidas": "42d76418",
+        "V Narayan Kutty": "4bacee3d"
+      },
+      "venues": {
+        "Selangor Turf Club, Kuala Lumpur": "9efd3a92"
+      }
+    },
+    "season": "2026/27",
+    "team_type": "international",
+    "teams": [
+      "Mongolia",
+      "Bahrain"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Bahrain"
+    },
+    "venue": "Selangor Turf Club, Kuala Lumpur"
+  },
+  "innings": [
+    {
+      "team": "Mongolia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "G Ganbold",
+              "bowler": "Ali Dawood",
+              "non_striker": "L Erdenebulgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "G Ganbold",
+              "bowler": "Ali Dawood",
+              "non_striker": "L Erdenebulgan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "G Ganbold",
+              "bowler": "Ali Dawood",
+              "non_striker": "L Erdenebulgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Ganbold",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "U Batjargal",
+              "bowler": "Ali Dawood",
+              "non_striker": "L Erdenebulgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "U Batjargal",
+              "bowler": "Ali Dawood",
+              "non_striker": "L Erdenebulgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "U Batjargal",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "S Gantulga",
+              "bowler": "Ali Dawood",
+              "non_striker": "L Erdenebulgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "L Erdenebulgan",
+              "bowler": "Rizwan Butt",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.1",
+              "batter": "L Erdenebulgan",
+              "bowler": "Rizwan Butt",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "L Erdenebulgan",
+              "bowler": "Rizwan Butt",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "L Erdenebulgan",
+              "bowler": "Rizwan Butt",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "S Gantulga",
+              "bowler": "Rizwan Butt",
+              "non_striker": "L Erdenebulgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "S Gantulga",
+              "bowler": "Rizwan Butt",
+              "non_striker": "L Erdenebulgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "L Erdenebulgan",
+              "bowler": "Rizwan Butt",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "S Gantulga",
+              "bowler": "Ali Dawood",
+              "non_striker": "L Erdenebulgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "S Gantulga",
+              "bowler": "Ali Dawood",
+              "non_striker": "L Erdenebulgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "L Erdenebulgan",
+              "bowler": "Ali Dawood",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "L Erdenebulgan",
+              "bowler": "Ali Dawood",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "L Erdenebulgan",
+              "bowler": "Ali Dawood",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "L Erdenebulgan",
+              "bowler": "Ali Dawood",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "S Gantulga",
+              "bowler": "Rizwan Butt",
+              "non_striker": "L Erdenebulgan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "S Gantulga",
+              "bowler": "Rizwan Butt",
+              "non_striker": "L Erdenebulgan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "L Erdenebulgan",
+              "bowler": "Rizwan Butt",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Erdenebulgan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "B Namsrai",
+              "bowler": "Rizwan Butt",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "B Namsrai",
+              "bowler": "Rizwan Butt",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Namsrai",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "B Munkhdelger",
+              "bowler": "Rizwan Butt",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "B Munkhdelger",
+              "bowler": "Ali Dawood",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "B Munkhdelger",
+              "bowler": "Ali Dawood",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "B Munkhdelger",
+              "bowler": "Ali Dawood",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "B Munkhdelger",
+              "bowler": "Ali Dawood",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Munkhdelger",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "T Amarmend",
+              "bowler": "Ali Dawood",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "T Amarmend",
+              "bowler": "Ali Dawood",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Amarmend",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "S Gantulga",
+              "bowler": "Rizwan Butt",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "S Gantulga",
+              "bowler": "Rizwan Butt",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "S Gantulga",
+              "bowler": "Rizwan Butt",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "S Gantulga",
+              "bowler": "Rizwan Butt",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "S Gantulga",
+              "bowler": "Rizwan Butt",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "B Batbayr",
+              "bowler": "Rizwan Butt",
+              "non_striker": "S Gantulga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "S Gantulga",
+              "bowler": "Ali Dawood",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "S Gantulga",
+              "bowler": "Ali Dawood",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "S Gantulga",
+              "bowler": "Ali Dawood",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Gantulga",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "O Lutbayar",
+              "bowler": "Ali Dawood",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "O Lutbayar",
+              "bowler": "Ali Dawood",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "O Lutbayar",
+              "bowler": "Ali Dawood",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "B Batbayr",
+              "bowler": "Rizwan Butt",
+              "non_striker": "O Lutbayar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "B Batbayr",
+              "bowler": "Rizwan Butt",
+              "non_striker": "O Lutbayar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "B Batbayr",
+              "bowler": "Rizwan Butt",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "O Lutbayar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "B Batbayr",
+              "bowler": "Rizwan Butt",
+              "non_striker": "O Lutbayar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "B Batbayr",
+              "bowler": "Rizwan Butt",
+              "non_striker": "O Lutbayar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "B Batbayr",
+              "bowler": "Rizwan Butt",
+              "non_striker": "O Lutbayar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "B Batbayr",
+              "bowler": "Rizwan Butt",
+              "non_striker": "O Lutbayar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "O Lutbayar",
+              "bowler": "Imran Anwar",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "O Lutbayar",
+              "bowler": "Imran Anwar",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "B Batbayr",
+              "bowler": "Imran Anwar",
+              "non_striker": "O Lutbayar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "B Batbayr",
+              "bowler": "Imran Anwar",
+              "non_striker": "O Lutbayar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "B Batbayr",
+              "bowler": "Imran Anwar",
+              "non_striker": "O Lutbayar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "B Batbayr",
+              "bowler": "Imran Anwar",
+              "non_striker": "O Lutbayar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "O Lutbayar",
+              "bowler": "Asif Shaikh",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "O Lutbayar",
+              "bowler": "Asif Shaikh",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "O Lutbayar",
+              "bowler": "Asif Shaikh",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "O Lutbayar",
+              "bowler": "Asif Shaikh",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "O Lutbayar",
+              "bowler": "Asif Shaikh",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "B Batbayr",
+              "bowler": "Asif Shaikh",
+              "non_striker": "O Lutbayar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "O Lutbayar",
+              "bowler": "Imran Anwar",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "O Lutbayar",
+              "bowler": "Imran Anwar",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "B Batbayr",
+              "bowler": "Imran Anwar",
+              "non_striker": "O Lutbayar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "B Batbayr",
+              "bowler": "Imran Anwar",
+              "non_striker": "O Lutbayar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "B Batbayr",
+              "bowler": "Imran Anwar",
+              "non_striker": "O Lutbayar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "B Batbayr",
+              "bowler": "Imran Anwar",
+              "non_striker": "O Lutbayar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "O Lutbayar",
+              "bowler": "Asif Shaikh",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "O Lutbayar",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "T Tumursukh",
+              "bowler": "Asif Shaikh",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "T Tumursukh",
+              "bowler": "Asif Shaikh",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "T Tumursukh",
+              "bowler": "Asif Shaikh",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "T Tumursukh",
+              "bowler": "Asif Shaikh",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "T Tumursukh",
+              "bowler": "Asif Shaikh",
+              "non_striker": "B Batbayr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "B Batbayr",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "T Tumursukh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Batbayr",
+                  "fielders": [
+                    {
+                      "name": "P Kurup",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "B Tamjidsuren",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "T Tumursukh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "B Tamjidsuren",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "T Tumursukh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "B Tamjidsuren",
+              "bowler": "Abdul Majid Abbasi",
+              "non_striker": "T Tumursukh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Tamjidsuren",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Bahrain",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Asif Ali",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "Shujaat Rasool",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Asif Ali",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "Shujaat Rasool",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Asif Ali",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "Shujaat Rasool",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Shujaat Rasool",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shujaat Rasool",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Imran Anwar",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Imran Anwar",
+                  "fielders": [
+                    {
+                      "name": "T Amarmend"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Fiaz Ahmed",
+              "bowler": "L Erdenebulgan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Fiaz Ahmed",
+              "bowler": "L Erdenebulgan",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Fiaz Ahmed",
+              "bowler": "B Tamjidsuren",
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Fiaz Ahmed",
+              "bowler": "B Tamjidsuren",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Asif Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.2,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,1841 @@
+{
+  "meta": {
+    "data_version": "1.3.0",
+    "created": "2026-10-14",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kuala Lumpur",
+    "dates": [
+      "2026-10-12"
+    ],
+    "event": {
+      "name": "ICC Men's T20 World Cup Sub Regional Asia Qualifier B",
+      "match_number": 12
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 4191,
+    "officials": {
+      "match_referees": [
+        "V Narayan Kutty"
+      ],
+      "reserve_umpires": [
+        "Ahmed Shah Durrani"
+      ],
+      "umpires": [
+        "Ramasamy Venkatesh",
+        "V Kalidas"
+      ]
+    },
+    "outcome": {
+      "winner": "Saudi Arabia",
+      "by": {
+        "runs": 64
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Usman Khalid"
+    ],
+    "players": {
+      "Saudi Arabia": [
+        "Abdul Wahid",
+        "Faisal Khan",
+        "Manan Ali",
+        "Waji Ul Hassan",
+        "Hisham Sheikh",
+        "Usman Khalid",
+        "Usman Najeeb",
+        "Ishtiaq Ahmad",
+        "Muhammad Saqib",
+        "S Sankar",
+        "Zain Ul Abidin"
+      ],
+      "China": [
+        "Du Jianhao",
+        "Shenjian Zheng",
+        "Yang Wangjie",
+        "Tian Sen Qun",
+        "Zhao Zhilong",
+        "Zong Yuechao",
+        "Ma Qiancheng",
+        "Chen Zhuo Yue",
+        "Qi Shuai",
+        "Du Jianyao",
+        "Yao Junting"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Abdul Wahid": "40aea524",
+        "Ahmed Shah Durrani": "af23265a",
+        "Chen Zhuo Yue": "47b33198",
+        "Du Jianhao": "d314deb8",
+        "Du Jianyao": "5a4987e1",
+        "Faisal Khan": "a7553f15",
+        "Hisham Sheikh": "c4441675",
+        "Ishtiaq Ahmad": "056b433b",
+        "Ma Qiancheng": "91cc319d",
+        "Manan Ali": "d0b643e1",
+        "Muhammad Saqib": "9d6644a0",
+        "Qi Shuai": "f571c8a1",
+        "Ramasamy Venkatesh": "8ad68ea7",
+        "S Sankar": "69997d9d",
+        "Shenjian Zheng": "a127e6f5",
+        "Tian Sen Qun": "3883402f",
+        "Usman Khalid": "314f0889",
+        "Usman Najeeb": "615688b6",
+        "V Kalidas": "42d76418",
+        "V Narayan Kutty": "4bacee3d",
+        "Waji Ul Hassan": "6892f9c3",
+        "Yang Wangjie": "0188fdc0",
+        "Yao Junting": "33e7d5ed",
+        "Zain Ul Abidin": "b93b87ae",
+        "Zhao Zhilong": "76e1f6eb",
+        "Zong Yuechao": "f5932ad2"
+      },
+      "venues": {
+        "Selangor Turf Club, Kuala Lumpur": "9efd3a92"
+      }
+    },
+    "season": "2026/27",
+    "team_type": "international",
+    "teams": [
+      "Saudi Arabia",
+      "China"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "China"
+    },
+    "venue": "Selangor Turf Club, Kuala Lumpur"
+  },
+  "innings": [
+    {
+      "team": "Saudi Arabia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Abdul Wahid",
+              "bowler": "Ma Qiancheng",
+              "non_striker": "Faisal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Abdul Wahid",
+              "bowler": "Ma Qiancheng",
+              "non_striker": "Faisal Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Abdul Wahid",
+              "bowler": "Ma Qiancheng",
+              "non_striker": "Faisal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Abdul Wahid",
+                  "fielders": [
+                    {
+                      "name": "Zhao Zhilong"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Manan Ali",
+              "bowler": "Ma Qiancheng",
+              "non_striker": "Faisal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Faisal Khan",
+              "bowler": "Ma Qiancheng",
+              "non_striker": "Manan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Manan Ali",
+              "bowler": "Ma Qiancheng",
+              "non_striker": "Faisal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Manan Ali",
+              "bowler": "Tian Sen Qun",
+              "non_striker": "Faisal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Manan Ali",
+                  "fielders": [
+                    {
+                      "name": "Zong Yuechao"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Tian Sen Qun",
+              "non_striker": "Faisal Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Tian Sen Qun",
+              "non_striker": "Faisal Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Tian Sen Qun",
+              "non_striker": "Faisal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Faisal Khan",
+              "bowler": "Tian Sen Qun",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Faisal Khan",
+              "bowler": "Tian Sen Qun",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Faisal Khan",
+                  "fielders": [
+                    {
+                      "name": "Zhao Zhilong"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Hisham Sheikh",
+              "bowler": "Tian Sen Qun",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Hisham Sheikh",
+              "bowler": "Ma Qiancheng",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Ma Qiancheng",
+              "non_striker": "Hisham Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Hisham Sheikh",
+              "bowler": "Ma Qiancheng",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Hisham Sheikh",
+              "bowler": "Ma Qiancheng",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Hisham Sheikh",
+              "bowler": "Ma Qiancheng",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Hisham Sheikh",
+              "bowler": "Ma Qiancheng",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Hisham Sheikh",
+              "bowler": "Ma Qiancheng",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Ma Qiancheng",
+              "non_striker": "Hisham Sheikh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Hisham Sheikh",
+              "bowler": "Qi Shuai",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Qi Shuai",
+              "non_striker": "Hisham Sheikh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Qi Shuai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Hisham Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Qi Shuai",
+              "non_striker": "Hisham Sheikh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Qi Shuai",
+              "non_striker": "Hisham Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Hisham Sheikh",
+              "bowler": "Qi Shuai",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Hisham Sheikh",
+              "bowler": "Qi Shuai",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Qi Shuai",
+              "non_striker": "Hisham Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Chen Zhuo Yue",
+              "non_striker": "Hisham Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Hisham Sheikh",
+              "bowler": "Chen Zhuo Yue",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Chen Zhuo Yue",
+              "non_striker": "Hisham Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Hisham Sheikh",
+              "bowler": "Chen Zhuo Yue",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Hisham Sheikh",
+              "bowler": "Chen Zhuo Yue",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Hisham Sheikh",
+              "bowler": "Chen Zhuo Yue",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Chen Zhuo Yue",
+              "non_striker": "Hisham Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Yao Junting",
+              "non_striker": "Hisham Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Hisham Sheikh",
+              "bowler": "Yao Junting",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Yao Junting",
+              "non_striker": "Hisham Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Hisham Sheikh",
+              "bowler": "Yao Junting",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Yao Junting",
+              "non_striker": "Hisham Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Hisham Sheikh",
+              "bowler": "Yao Junting",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Hisham Sheikh",
+              "bowler": "Chen Zhuo Yue",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Chen Zhuo Yue",
+              "non_striker": "Hisham Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Hisham Sheikh",
+              "bowler": "Chen Zhuo Yue",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Chen Zhuo Yue",
+              "non_striker": "Hisham Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Hisham Sheikh",
+              "bowler": "Chen Zhuo Yue",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Hisham Sheikh",
+                  "fielders": [
+                    {
+                      "name": "Du Jianhao"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Usman Khalid",
+              "bowler": "Chen Zhuo Yue",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Usman Khalid",
+              "bowler": "Yao Junting",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Yao Junting",
+              "non_striker": "Usman Khalid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Usman Khalid",
+              "bowler": "Yao Junting",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Yao Junting",
+              "non_striker": "Usman Khalid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Yao Junting",
+              "non_striker": "Usman Khalid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Usman Khalid",
+              "bowler": "Yao Junting",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Qi Shuai",
+              "non_striker": "Usman Khalid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Usman Khalid",
+              "bowler": "Qi Shuai",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Usman Khalid",
+              "bowler": "Qi Shuai",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Usman Khalid",
+              "bowler": "Qi Shuai",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Qi Shuai",
+              "non_striker": "Usman Khalid",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Qi Shuai",
+              "non_striker": "Usman Khalid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Tian Sen Qun",
+              "non_striker": "Usman Khalid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Usman Khalid",
+              "bowler": "Tian Sen Qun",
+              "non_striker": "Waji Ul Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Tian Sen Qun",
+              "non_striker": "Usman Khalid",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Tian Sen Qun",
+              "non_striker": "Usman Khalid",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Waji Ul Hassan",
+              "bowler": "Tian Sen Qun",
+              "non_striker": "Usman Khalid",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Waji Ul Hassan",
+                  "fielders": [
+                    {
+                      "name": "Yang Wangjie"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Usman Najeeb",
+              "bowler": "Tian Sen Qun",
+              "non_striker": "Usman Khalid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Usman Najeeb",
+                  "fielders": [
+                    {
+                      "name": "Du Jianhao"
+                    },
+                    {
+                      "name": "Du Jianyao"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.8,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "China",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Du Jianhao",
+              "bowler": "Ishtiaq Ahmad",
+              "non_striker": "Shenjian Zheng",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Du Jianhao",
+              "bowler": "Ishtiaq Ahmad",
+              "non_striker": "Shenjian Zheng",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Du Jianhao",
+              "bowler": "Ishtiaq Ahmad",
+              "non_striker": "Shenjian Zheng",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Du Jianhao",
+              "bowler": "Ishtiaq Ahmad",
+              "non_striker": "Shenjian Zheng",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Du Jianhao",
+              "bowler": "Ishtiaq Ahmad",
+              "non_striker": "Shenjian Zheng",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Du Jianhao",
+                  "fielders": [
+                    {
+                      "name": "Zain Ul Abidin"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Yang Wangjie",
+              "bowler": "Ishtiaq Ahmad",
+              "non_striker": "Shenjian Zheng",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Yang Wangjie",
+              "bowler": "Muhammad Saqib",
+              "non_striker": "Shenjian Zheng",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Yang Wangjie",
+              "bowler": "Muhammad Saqib",
+              "non_striker": "Shenjian Zheng",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Yang Wangjie",
+              "bowler": "Muhammad Saqib",
+              "non_striker": "Shenjian Zheng",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Yang Wangjie",
+              "bowler": "Muhammad Saqib",
+              "non_striker": "Shenjian Zheng",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Yang Wangjie",
+              "bowler": "Muhammad Saqib",
+              "non_striker": "Shenjian Zheng",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Yang Wangjie",
+              "bowler": "Muhammad Saqib",
+              "non_striker": "Shenjian Zheng",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Shenjian Zheng",
+              "bowler": "Ishtiaq Ahmad",
+              "non_striker": "Yang Wangjie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shenjian Zheng",
+                  "fielders": [
+                    {
+                      "name": "S Sankar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Tian Sen Qun",
+              "bowler": "Ishtiaq Ahmad",
+              "non_striker": "Yang Wangjie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Tian Sen Qun",
+              "bowler": "Ishtiaq Ahmad",
+              "non_striker": "Yang Wangjie",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Tian Sen Qun",
+              "bowler": "Ishtiaq Ahmad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Yang Wangjie",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Tian Sen Qun",
+              "bowler": "Ishtiaq Ahmad",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Yang Wangjie",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              },
+              "wickets": [
+                {
+                  "player_out": "Yang Wangjie",
+                  "fielders": [
+                    {
+                      "name": "Muhammad Saqib"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Zhao Zhilong",
+              "bowler": "Ishtiaq Ahmad",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Zhao Zhilong",
+              "bowler": "Ishtiaq Ahmad",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Zhao Zhilong",
+              "bowler": "Ishtiaq Ahmad",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Tian Sen Qun",
+              "bowler": "Usman Khalid",
+              "non_striker": "Zhao Zhilong",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Zhao Zhilong",
+              "bowler": "Usman Khalid",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Zhao Zhilong",
+              "bowler": "Usman Khalid",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Tian Sen Qun",
+              "bowler": "Usman Khalid",
+              "non_striker": "Zhao Zhilong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Tian Sen Qun",
+              "bowler": "Usman Khalid",
+              "non_striker": "Zhao Zhilong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Tian Sen Qun",
+              "bowler": "Usman Khalid",
+              "non_striker": "Zhao Zhilong",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Tian Sen Qun",
+              "bowler": "Zain Ul Abidin",
+              "non_striker": "Zhao Zhilong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Tian Sen Qun",
+              "bowler": "Zain Ul Abidin",
+              "non_striker": "Zhao Zhilong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Tian Sen Qun",
+              "bowler": "Zain Ul Abidin",
+              "non_striker": "Zhao Zhilong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Tian Sen Qun",
+              "bowler": "Zain Ul Abidin",
+              "non_striker": "Zhao Zhilong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Tian Sen Qun",
+              "bowler": "Zain Ul Abidin",
+              "non_striker": "Zhao Zhilong",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Tian Sen Qun",
+              "bowler": "Zain Ul Abidin",
+              "non_striker": "Zhao Zhilong",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Tian Sen Qun",
+              "bowler": "Usman Khalid",
+              "non_striker": "Zhao Zhilong",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Zhao Zhilong",
+              "bowler": "Usman Khalid",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zhao Zhilong",
+                  "fielders": [
+                    {
+                      "name": "S Sankar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Zong Yuechao",
+              "bowler": "Usman Khalid",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Zong Yuechao",
+              "bowler": "Usman Khalid",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Zong Yuechao",
+              "bowler": "Usman Khalid",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Zong Yuechao",
+              "bowler": "Usman Khalid",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zong Yuechao",
+                  "fielders": [
+                    {
+                      "name": "Faisal Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Tian Sen Qun",
+              "bowler": "Zain Ul Abidin",
+              "non_striker": "Ma Qiancheng",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Ma Qiancheng",
+              "bowler": "Zain Ul Abidin",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Ma Qiancheng",
+              "bowler": "Zain Ul Abidin",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ma Qiancheng",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Chen Zhuo Yue",
+              "bowler": "Zain Ul Abidin",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Chen Zhuo Yue",
+              "bowler": "Zain Ul Abidin",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Chen Zhuo Yue",
+              "bowler": "Zain Ul Abidin",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Tian Sen Qun",
+              "bowler": "Hisham Sheikh",
+              "non_striker": "Chen Zhuo Yue",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Tian Sen Qun",
+              "bowler": "Hisham Sheikh",
+              "non_striker": "Chen Zhuo Yue",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Chen Zhuo Yue",
+              "bowler": "Hisham Sheikh",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Chen Zhuo Yue",
+              "bowler": "Hisham Sheikh",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Chen Zhuo Yue",
+              "bowler": "Hisham Sheikh",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Chen Zhuo Yue",
+              "bowler": "Hisham Sheikh",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Tian Sen Qun",
+              "bowler": "Muhammad Saqib",
+              "non_striker": "Chen Zhuo Yue",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Tian Sen Qun",
+              "bowler": "Muhammad Saqib",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Chen Zhuo Yue",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Tian Sen Qun",
+              "bowler": "Muhammad Saqib",
+              "non_striker": "Chen Zhuo Yue",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Tian Sen Qun",
+              "bowler": "Muhammad Saqib",
+              "non_striker": "Chen Zhuo Yue",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Chen Zhuo Yue",
+              "bowler": "Muhammad Saqib",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Chen Zhuo Yue",
+              "bowler": "Muhammad Saqib",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Chen Zhuo Yue",
+              "bowler": "Muhammad Saqib",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Tian Sen Qun",
+              "bowler": "Hisham Sheikh",
+              "non_striker": "Chen Zhuo Yue",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Tian Sen Qun",
+              "bowler": "Hisham Sheikh",
+              "non_striker": "Chen Zhuo Yue",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Chen Zhuo Yue",
+              "bowler": "Hisham Sheikh",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Chen Zhuo Yue",
+                  "fielders": [
+                    {
+                      "name": "S Sankar"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Qi Shuai",
+              "bowler": "Hisham Sheikh",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Qi Shuai",
+              "bowler": "Hisham Sheikh",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Qi Shuai",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Du Jianyao",
+              "bowler": "Hisham Sheikh",
+              "non_striker": "Tian Sen Qun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 10,
+        "runs": 99
+      }
+    }
+  ]
+}
